@@ -1,5 +1,5 @@
 
-var arr=["images/拉麵.JPG","images/滷肉飯.jpg","images/水餃.jpg"]
+var arr=["images/拉麵.jpg","images/滷肉飯.jpg","images/水餃.jpg"]
 
 $(function(){
     let food=new Image(500,300);
